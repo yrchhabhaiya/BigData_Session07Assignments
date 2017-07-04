@@ -1,6 +1,8 @@
 # BigData_Session07Assignments
 Introduction to PIG
 
+Assignment 7.1: Question Answers, File: Assignment 7.1.docx
+--------------------------------------------------------------------------------------------------------------------------
 We have employee_details and employee_expenses files. Use local mode while running Pig and write Pig Latin script to get below results:  
 (a) Top 5 employees (employee id and employee name) with highest rating. (In case two employees have same rating, employee with name coming first in dictionary should get preference) 
 PIG Script File: script72a.pig
